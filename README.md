@@ -1,2 +1,4 @@
-# destroytheworld
-build an app that destroys the world
+# Destroy The World
+Build an app that destroys the world.
+
+##### Push new frontiers
